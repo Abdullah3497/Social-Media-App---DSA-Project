@@ -1,0 +1,9 @@
+P104|abdullah|i study in comsats lahore.|0
+P105|abdullah|how to Ace in DSA viva?|1
+P107|awais|hello everyone how are you?|0
+P106|shahab|i am in 3rd semester of BS SE.|0
+P100|riaz|hello i am riaz. i am from lahore and currently doing BS SE in cui lahore.|0
+P101|riaz|today i am going to islamabad.|2
+P108|riaz|hytttrtt|2
+P102|ali|how is your day going?|0
+P103|ali|assalamualaikum everyone!!|0

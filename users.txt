@@ -1,0 +1,6 @@
+U6|Riaz|123
+U3|abdullah|1234
+U5|awais|1
+U4|shahab|12
+U1|riaz|123
+U2|ali|12345

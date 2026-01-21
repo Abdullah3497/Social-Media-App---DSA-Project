@@ -1,0 +1,6 @@
+abdullah|ali
+abdullah|riaz
+awais|shahab
+awais|riaz
+shahab|riaz
+riaz|ali

@@ -1,0 +1,5 @@
+C1001|P101|ali|nice
+C1002|P101|awais|have a safe journey bro
+C1003|P108|awais|nice
+C1004|P108|awais|nice1
+C1005|P108|ali|nice2
